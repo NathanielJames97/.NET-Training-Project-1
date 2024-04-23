@@ -1,0 +1,59 @@
+# Compiled files
+bin/
+obj/
+
+# Dependency directories
+packages/
+
+# Visual Studio files
+.vs/
+*.vscode/
+*.suo
+*.user
+*.userprefs
+*.sln.cache
+*.dll.refresh
+*.log
+*.sqlite
+*.sqlite3
+*.pdb
+*.ipch/
+*.iobj
+
+# Resharper files
+_ReSharper*/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code files
+.vscode/
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.suo
+*.vsp
+*.vspx
+*.psess
+*.pidb
+*.suo
+*.user
