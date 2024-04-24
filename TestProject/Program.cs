@@ -14,5 +14,5 @@ if (total > 14)
 }
 if (total < 15)
 {
-    Console.WriteLine("You Lose, Try again!")
+    Console.WriteLine("You Lose, Try again!");
 }
